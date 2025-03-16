@@ -49,7 +49,7 @@
   [![后台演示视频]](https://www.tronpay.vip/admin.mp4)
 
 ## 管理后台(此项目没有前端支付连接二维码由后台创建)
-  [![后台演示视频]](https://admin.tronlink.rest)
+  [![后台登录]](https://admin.tronlink.rest)
   登录账户admin888 密码123456 如果测试中遇到任何问题请使用电报联系[![https://t.me/id_8888]](https://t.me/id_8888)
   
 ## 功能亮点
