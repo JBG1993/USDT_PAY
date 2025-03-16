@@ -41,18 +41,21 @@
 </table>
 
 ## 演示视频
-
-- **前端演示**：  
-  [![前端演示视频一]](https://www.tronpay.vip/user.mp4)
-  [![前端演示视频二]](https://www.tronpay.vip/user1.mp4)  
-- **后台演示**：  
-  [![后台演示视频]](https://www.tronpay.vip/admin.mp4)
-  **视频加载较慢需要多刷新几次**
-
+ <a href="https://www.tronpay.vip" target="_blank">点击查看演示视频</a>
   
 ## 管理后台(此项目没有前端支付连接二维码由后台创建)
-  [![后台登录]](https://admin.tronlink.rest)
-  登录账户admin888 密码123456 如果测试中遇到任何问题请使用电报联系[![https://t.me/id_8888]](https://t.me/id_8888)
+  <a href="https://admin.tronlink.rest" target="_blank">点击进入后台</a>
+  <a href="https://t.me/id_8888" target="_blank">测试研究过程中遇到的问题请点击这里-> 联系电报:https://t.me/id_8888</a>
+  <table>
+  <tr>
+    <td><img src="photo_2025-03-17_07-17-26.jpg" alt="电报" width="200"/></td>
+    <td><img src="photo_2025-03-17_07-17-11.jpg" alt="微信" width="200"/></td>
+  </tr>
+  <tr>
+    <td>电报(24小时在线)</td>
+    <td>微信(很少上限)</td>
+  </tr>  
+</table>
   
 ## 功能亮点
 
