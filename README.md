@@ -41,7 +41,7 @@
 </table>
 
 ## 演示视频
- <a href="https://www.tronpay.vip" target="_blank">点击查看演示视频</a>
+ <a href="https://tronpay.vip" target="_blank">点击查看演示视频</a>
   
 ## 管理后台(此项目没有前端支付连接二维码由后台创建)
   <a href="https://admin.tronlink.rest" target="_blank">点击进入后台</a>
